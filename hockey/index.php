@@ -8,5 +8,4 @@ include('inc/footer.php');
 
 
 ?>
-  <?php
-  ?>
+
