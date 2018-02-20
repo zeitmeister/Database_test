@@ -1,0 +1,67 @@
+* {
+  font-family: 'Barlow Condensed', sans-serif;
+}
+
+body {
+  margin: 0;
+}
+
+li {
+
+  font-size: 1.1em;
+  list-style: none;
+  text-align: center;
+  padding: 5px 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  padding: 0;
+  padding-top: 30px;
+  margin: 0 ;
+}
+.ulwrapper {
+  padding-top: 0;
+  background-color: #2244ff33;
+}
+
+.teamlinks {
+  padding: 0 50px;
+  transition: box-shadow 1s;
+  text-decoration: none;
+  height: 100%;
+}
+
+img:hover {
+}
+
+.header {
+  text-align: center;
+  background-color: steelblue;
+  height: 14%;
+  border-bottom: 3px solid midnightblue;
+}
+
+.wrapper {
+  display: inline-block;
+  transition: box-shadow 1s;
+}
+
+.wrapper.home {
+  padding: 0 250px 0 0;
+}
+
+.footer {
+  margin: 0;
+  padding-top: 30px;
+  background-color: lightgrey;
+  border-top: 3px solid grey;
+  padding-bottom: 0;
+}
+
+.social {
+  height: 7%;
+}
